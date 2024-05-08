@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/FunctionCallObfuscate.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/FunctionCallObfuscate.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/FunctionCallObfuscate.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/CryptoUtils.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/CryptoUtils.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/CryptoUtils.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/BogusControlFlow.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/BogusControlFlow.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/BogusControlFlow.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/SubstituteImpl.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/SubstituteImpl.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/SubstituteImpl.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/Substitution.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/Substitution.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/Substitution.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/Flattening.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/Flattening.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/Flattening.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/Utils.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/Utils.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/Utils.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/SplitBasicBlocks.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/SplitBasicBlocks.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/SplitBasicBlocks.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/AntiClassDump.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/AntiClassDump.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/AntiClassDump.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/AntiDebugging.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/AntiDebugging.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/AntiDebugging.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/AntiHooking.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/AntiHooking.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/AntiHooking.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/StringEncryption.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/StringEncryption.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/StringEncryption.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/IndirectBranch.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/IndirectBranch.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/IndirectBranch.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/FunctionWrapper.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/FunctionWrapper.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/FunctionWrapper.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/ConstantEncryption.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/ConstantEncryption.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/ConstantEncryption.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/Obfuscation.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/Obfuscation.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/Obfuscation.cpp"
+},
+{
+  "directory": "/workspaces/llvm-obfuscation-playground/build",
+  "command": "/usr/bin/clang++-16 -I/usr/lib/llvm-16/include -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -std=gnu++17 -o lib/Hikari/CMakeFiles/Hikari.dir/Plugin.cpp.o -c /workspaces/llvm-obfuscation-playground/lib/Hikari/Plugin.cpp",
+  "file": "/workspaces/llvm-obfuscation-playground/lib/Hikari/Plugin.cpp"
+}
+]

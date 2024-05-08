@@ -1,0 +1,12 @@
+/workspaces/llvm-obfuscation-playground/build/CMakeFiles/intrinsics_gen.dir
+/workspaces/llvm-obfuscation-playground/build/CMakeFiles/omp_gen.dir
+/workspaces/llvm-obfuscation-playground/build/CMakeFiles/acc_gen.dir
+/workspaces/llvm-obfuscation-playground/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/workspaces/llvm-obfuscation-playground/build/CMakeFiles/clang-tablegen-targets.dir
+/workspaces/llvm-obfuscation-playground/build/CMakeFiles/edit_cache.dir
+/workspaces/llvm-obfuscation-playground/build/CMakeFiles/rebuild_cache.dir
+/workspaces/llvm-obfuscation-playground/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/llvm-obfuscation-playground/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/llvm-obfuscation-playground/build/lib/Hikari/CMakeFiles/Hikari.dir
+/workspaces/llvm-obfuscation-playground/build/lib/Hikari/CMakeFiles/edit_cache.dir
+/workspaces/llvm-obfuscation-playground/build/lib/Hikari/CMakeFiles/rebuild_cache.dir
